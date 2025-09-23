@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Leonardo Scavazza  
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na São Paulo Tech School! 
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na São Paulo Tech School! <br>
 <img alt="SPTech" height="50" width="50" src="https://sptech.school/wp-content/uploads/2025/02/sptech_principal.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoscavazza&show_icons=true&theme=tokyonight)
