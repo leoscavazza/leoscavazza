@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Leonardo Scavazza  
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na faculdade São Paulo Tech School!
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na faculdade **São Paulo Tech School**!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoscavazza&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoscavazza&layout=compact&theme=tokyonight)
